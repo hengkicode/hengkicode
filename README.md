@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hengkicode
 - 👀 I’m interested in coding part time 
-- 🌱 I’m currently learning javascript , php , vuejs, html, css, python
+- 🌱 I’m currently learning javascript , php , vuejs, html, css, python, rust
 - 📫 How to reach me whatsapp : 082158766777
