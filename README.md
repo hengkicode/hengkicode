@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @hengkicode
-- 👀 I’m interested in coding part time 
-- 🌱 I’m currently learning javascript , php , next js , laravel, html, css, python, rust
-- 📫 How to reach me whatsapp : 082158766777
+Software Engineer / Full-Stack Developer with experience building business applications, POS systems, logistics systems, loss prevention solutions, institutional websites, and AI-powered solutions.
